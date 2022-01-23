@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 Journal Papers
 ======
 1.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2020. Statistical evaluation of data requirement for ramp metering performance assessment. Transportation Research Part A: Policy and Practice, 141, pp.248-261.
