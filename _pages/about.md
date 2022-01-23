@@ -7,7 +7,7 @@ I am Xiaobo Ma, a Ph.D. student in the Department of Civil & Architectural Engin
 News
 ======
 
-* 2022/01：My first author paper "Eliminating the Impacts of Traffic Volume Variation on Before and After Studies: A Causal Inference Approach" was selected for the Honorable Mention Award for the 2022 TSIG Student Paper Competition.   
+* 2022/01：My first author paper "Eliminating the Impacts of Traffic Volume Variation on Before and After Studies: A Causal Inference Approach" was selected for the **Honorable Mention Award for the 2022 TSIG Student Paper Competition**.   
  
 * 2021/12：I’m honored to become a Paper Review Subcommittee Member of TRB Standing Committee on Artificial Intelligence and Advanced Computing Applications (AED50).
  
@@ -19,7 +19,7 @@ News
  
 * 2021/10：I’m honored to become an Associate Committee Member (Student Member) of Artificial Intelligence Committee of ASCE Transportation & Development Institute (T&DI). 
  
-* 2021/09：My first author paper "Application of Transfer Learning Technique for Proactive Ramp Metering Performance Assessment" was awarded the ITS Arizona 28th Annual Conference Best Paper Award.                                            
+* 2021/09：My first author paper "Application of Transfer Learning Technique for Proactive Ramp Metering Performance Assessment" was awarded the **ITS Arizona 28th Annual Conference Best Paper Award**.                                            
  
 * 2021/09：My second author paper "A Multi-Source Data Approach for Estimating Vehicle Queue Length at Metered On-Ramps " got accepted by  Journal of Transportation Engineering, Part A: Systems.
  
