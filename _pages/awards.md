@@ -18,7 +18,7 @@ author_profile: true
   *  Delbert Lewis Graduate Scholarship    
   *  Price, William Scholarship    
   *  National Institute for Transportation and Communities Student Travel Award    
-* **2018**   
+* **2018**
   *  National Institute for Transportation and Communities Student Travel Award                                                                                                                                      
     
 
