@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 I am Xiaobo Ma, a Ph.D. student in the Department of Civil & Architectural Engineering & Mechanics at the University of Arizona, where I am advised by Professor Yao-Jan Wu. My main research interests are transportation data mining and analysis, freeway operations, and transfer learning. 
 
 
