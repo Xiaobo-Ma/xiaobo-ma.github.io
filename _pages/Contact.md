@@ -6,10 +6,17 @@ author_profile: true
 ---
 
 
-* Address: Department of Civil & Architectural Engineering & Mechanics, University of Arizona, 1209 E 2nd St, Tucson, Pima County 85719, USA
+## Address
 
-* Email: xiaoboma@email.arizona.edu
+* Department of Civil & Architectural Engineering & Mechanics, University of Arizona, 1209 E 2nd St, Tucson, Pima County 85719, USA
 
-* Phone: 520-248-4632
+
+## Email
+
+* xiaoboma@email.arizona.edu
+
+## Phone
+
+* 520-248-4632
 
 
