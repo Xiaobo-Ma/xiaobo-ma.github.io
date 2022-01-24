@@ -58,3 +58,24 @@ author_profile: true
   *  **National Scholarship (Top 0.2%, Ministry of Education, China)**  
 * **2011**    
   *  **National Scholarship (Top 0.2%, Ministry of Education, China)**  
+
+
+
+## Title of honor
+
+* **2016**
+  *  Candidate for Top Ten Outstanding Students of Liaoning Province                                                        
+  *  Outstanding Graduate of Dalian
+  *  Dalian Maritime University Excellent Graduate Student
+  *  Dalian Maritime University Model Student of Academics 
+  *  Dalian Maritime University Outstanding Student                                                                                                                    
+* **2014**
+  *  **Inspirational Student of Liaoning Province (Top 0.06%)** 
+  *  **Outstanding Graduate of Liaoning Province (Top 0.06%)**
+  *  **Dalian Maritime University Top Ten Outstanding Students (Top 0.06%)**                                                                                             
+* **2013**
+  *  Outstanding Volunteer of the 7th Summer Davos Forum                                                                          
+  *  Outstanding Volunteer of the 12th national games of PRC                                                                                      
+* **2011**
+  *  Merit Student of Dalian
+  *  Dalian Maritime University Merit Student                                                                                                                                     
