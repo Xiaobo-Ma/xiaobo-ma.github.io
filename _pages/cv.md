@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-
 Education
 ======
 * B.S. in Navigation Technology with honors(Integrated Ranking: 1/562), Dalian Maritime University, 2014
