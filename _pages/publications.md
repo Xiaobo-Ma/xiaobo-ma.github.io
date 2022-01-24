@@ -17,7 +17,7 @@ author_profile: true
 7.	**Xiaobo Ma**, Xuefei Liu, and Ran Dai, 2016. Optimized grey system prediction model on ship traffic flow of Chang-shan channel. Journal of Shanghai Maritime University, (2), pp.12-16.
 8.	**Xiaobo Ma**, Dongwei Wang, and Ran Dai, 2016. Survey and analysis on status quo of the cultivation of navigation professional spirit in maritime universities. Ship & Ocean Engineering, 45(6), pp.131-134.
 9.	**Xiaobo Ma**, Jie Zhang, and Ran Dai, 2016. Determining the tanker’s ballast draft based on AIS data. Ship & Ocean Engineering, 45(4), pp.64-66.
-10.	**Xiaobo Ma**, Baisong Du, and Ran Dai, 2016. Design of a ship’s draft measuring ruler. Ship & Ocean Engineering, 45(3), pp.35-38.
+10.	**Xiaobo Ma**, Baisong Du, and Ran Dai, 2016. Design of a ship’s draft measuring ruler. Ship & Ocean Engineering, 45(3), pp.35-38 **(Annual Outstanding Paper Award of China Institute of Navigation)**.
 11.	Zhou Wang, **Xiaobo Ma** Weibing Wu, and Qin Zhang, 2016. Navigation safety analysis of Binhai LNG terminal project. China Water Transport, (10), pp.135-137.
 12.	Zhiyu Shou, **Xiaobo Ma**, and Xiaowei Gao, 2016. Research on Ship Maneuvering of Yuedong LNG Terminal. China Water Transport, (11), pp.29-31.
 
