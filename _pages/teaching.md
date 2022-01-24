@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-
 ## Summer 2021
 
 * **Instructor**, University of Arizona
