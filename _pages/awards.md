@@ -6,6 +6,32 @@ author_profile: true
 ---
 
 
+## Competitions
+
+* **2022**
+  *  **American Statistical Association TSIG Student Paper Award**           
+* **2021**
+  *  **ITS Arizona 28th Annual Conference Best Paper Award**
+  *  Third place, Student Paper Presentation Contest in 2021 Arizona Students’ Transportation Summit                                                     
+* **2020**
+  *  Second place, First Annual Arizona Traffic Bowl Student Round         
+* **2019**
+  *  **Runner-up, Best TSMO project (Awarded by USA National Operations Center of Excellence)**     
+* **2016**    
+  *  Outstanding Winner, National Collegiate Entrepreneurship Competition in Liaoning Province
+  *  Excellence Award, China Innovation and Entrepreneurship Competition in Liaoning Province 
+* **2015**    
+  *  **Annual Outstanding Paper Award of China Institute of Navigation**                                                   
+* **2014**    
+  *  Excellence Award, National Graduate Mathematics Modeling Contest                                             
+* **2013**    
+  *  Meritorious Winner, American Mathematical Contest in Modeling, Media Contest  
+  *  Honorable Mention, American Mathematical Contest in Modeling     
+  *  First Place, Mathematical Modeling of the Northeastern Three Provinces League 
+  *  First Place, National Undergraduate Training Programs for Innovation and Entrepreneurship
+  *  Third Place, National Undergraduate Mathematical Modeling Contest in Liaoning Province                                                       
+
+
 
 ## Scholarships
 
