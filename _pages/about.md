@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Xiaobo Ma, a Ph.D. student in the Department of Civil & Architectural Engineering & Mechanics at the University of Arizona, where I am advised by Professor Yao-Jan Wu. My main research interests are traffic operations, intelligent transportation systems, machine Learning/causal Inference, big traffic data mining and analysis, and spatial-temporal data forecasting. 
+I am Xiaobo Ma, a Ph.D. Candidate in the Department of Civil & Architectural Engineering & Mechanics at the University of Arizona, where I am advised by Professor Yao-Jan Wu. My main research interests are traffic operations, intelligent transportation systems, machine Learning/causal Inference, big traffic data mining and analysis, and spatial-temporal data forecasting. 
 
 I have the membership of the Artificial Intelligence in Transportation Committee of ASCE Transportation & Development Institute (T&DI). I am also a committee member of Paper Review Subcommittee and Communications Subcommittee, TRB Standing Committee on Artificial Intelligence and Advanced Computing Applications (AED50). My papers have been awarded the ITS Arizona 28th Annual Conference Best Paper Award, American Statistical Association TSIG Student Paper Award (Honorable Mention), and Annual Outstanding Paper Award of China Institute of Navigation. I have been awarded China National Scholarship (top 0.2%) four times.   
 
 News
 ======
+
+* 2022/03：I am honored to receive the **Jenny L. Grote Student Leadership Award**.This is an individual award meant to recognize students who have made substantial contributions to ITE and/or the transportation industry in Arizona. 
 
 * 2022/01：My first author paper "Eliminating the Impacts of Traffic Volume Variation on Before and After Studies: A Causal Inference Approach" was selected for the **Honorable Mention Award for the 2022 TSIG Student Paper Competition**.   
  
