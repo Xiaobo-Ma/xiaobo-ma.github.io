@@ -15,6 +15,10 @@ I have the membership of the Artificial Intelligence in Transportation Committee
 News
 ======
 
+* 2022/04：I am honored to be featured as one of the National Institute for Transportation and Communities Student Spotlights. 
+
+* 2022/03：I am honored to be featured as one of the ITE Mountain District Student Member Spotlights in the Mountain District ITE Quarterly Magazine - The Summit!
+
 * 2022/03：I am honored to receive the **Jenny L. Grote Student Leadership Award**.This is an individual award meant to recognize students who have made substantial contributions to ITE and/or the transportation industry in Arizona. 
 
 * 2022/01：My first author paper "Eliminating the Impacts of Traffic Volume Variation on Before and After Studies: A Causal Inference Approach" was selected for the **Honorable Mention Award for the 2022 TSIG Student Paper Competition**.   
