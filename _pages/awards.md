@@ -35,6 +35,9 @@ author_profile: true
 
 ## Scholarships
 
+* **2022** 
+  *  National Institute for Transportation and Communities Student Travel Award
+  *  **Jenny L. Grote Student Leadership Award**. This is an individual award meant to recognize students who have made substantial contributions to ITE and/or the transportation industry in Arizona.
 * **2021**
   *  Graduate and Professional Student Council (GPSC) Student Travel Award   
   *  National Institute for Transportation and Communities Student Travel Award         
@@ -63,6 +66,9 @@ author_profile: true
 
 ## Title of honor
 
+* **2022**
+  *  National Institute for Transportation and Communities Student Spotlight
+  *  ITE Mountain District Student Member Spotlight                                                      
 * **2016**
   *  Candidate for Top Ten Outstanding Students of Liaoning Province                                                        
   *  Outstanding Graduate of Dalian
