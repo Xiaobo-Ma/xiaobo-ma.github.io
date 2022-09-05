@@ -8,8 +8,8 @@ author_profile: true
 
 ## Journal Papers
 
-1.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2022. Short-term pedestrian delay prediction at signalized intersections
-using high-resolution event-based data (To be submitted) .
+1.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2022. Short-term Pedestrian Delay Prediction at Signalized Intersections
+Using High-resolution Event-based Data (To be submitted) .
 2.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2022. Data-driven Transfer Learning Framework for Estimating On-ramp and Off-ramp Traffic Flows. Journal of Intelligent Transportation Systems: Technology, Planning, and Operations (Under review) .
 3.	**Xiaobo Ma**, Adrian Cottam, Mohammad Razaur Rahman Shaon, and Yao-Jan Wu, 2021. Application of Transfer Learning for Proactive Ramp Metering Performance Assessment. Transportation Research Part A:  Policy and Practice (Under review) **(ITS Arizona 28th Annual Conference Best Paper Award)**.
 4.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2021.  Eliminating the Impacts of Traffic Volume Variation on Before and After Studies: A Causal Inference Approach. Journal of Intelligent Transportation Systems: Technology, Planning, and Operations (Under review) **(American Statistical Association TSIG Student Paper Award Honorable Mention)**.
