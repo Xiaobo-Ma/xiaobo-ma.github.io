@@ -10,7 +10,7 @@ author_profile: true
 
 1.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2022. Short-term Pedestrian Delay Prediction at Signalized Intersections
 Using High-resolution Event-based Data (To be submitted) .
-2.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2022. Data-driven Transfer Learning Framework for Estimating On-ramp and Off-ramp Traffic Flows. Journal of Intelligent Transportation Systems: Technology, Planning, and Operations (Under review) .
+2.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2022. Data-driven Transfer Learning Framework for Estimating On-ramp and Off-ramp Traffic Flows. Journal of Intelligent Transportation Systems: Technology, Planning, and Operations (Under review) **(2023 Transportation Research Board 102nd Annual Meeting Spotlight of AI Research: Explainable AI)**.
 3.	**Xiaobo Ma**, Adrian Cottam, Mohammad Razaur Rahman Shaon, and Yao-Jan Wu, 2021. Application of Transfer Learning for Proactive Ramp Metering Performance Assessment. Transportation Research Part A:  Policy and Practice (Under review) **(ITS Arizona 28th Annual Conference Best Paper Award)**.
 4.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2021.  Eliminating the Impacts of Traffic Volume Variation on Before and After Studies: A Causal Inference Approach. Journal of Intelligent Transportation Systems: Technology, Planning, and Operations (Under review) **(American Statistical Association TSIG Student Paper Award Honorable Mention)**.
 5.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2020. Statistical evaluation of data requirement for ramp metering performance assessment. Transportation Research Part A: Policy and Practice, 141, pp.248-261.
@@ -26,8 +26,9 @@ Using High-resolution Event-based Data (To be submitted) .
 
 ## Conference Papers
 
-1.	**Xiaobo Ma**, Adrian Cottam,  Mohammad Razaur Rahman Shaon, and Yao-Jan Wu, 2021. Application of Transfer Learning for Proactive Ramp Metering Performance Assessment. ITS Arizona 28th Annual Conference, Mesa, AZ.
-2.	Adrian Cottam, **Xiaobo Ma**, Xiaofeng Li, and Yao-Jan Wu, 2021. Large-scale Freeway Traffic Volume Estimation using Crowdsourced Speed Data: A Case Study in Arizona. 100th Annual Meeting of the Transportation Research Board (TRB), Washington, DC. #21-03258.
-3.	Xiaoling Luo, **Xiaobo Ma**, Matthew Munden, Yao-Jan Wu, and Yangsheng Jiang, 2021. Queue Length Estimation for Metered On-Ramps: A Multi-Source Data Approach. 100th Annual Meeting of the Transportation Research Board (TRB), Washington, DC. #21-03497.
-4.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2020. Statistical Evaluation of Data Requirement for Ramp Metering Performance Assessment: A Case Study of SR-51, Arizona. 99th Annual Meeting of the Transportation Research Board (TRB), Washington, DC. #20-03641.
-5.	**Xiaobo Ma**, Yao-Jan Wu, 2019. Online prediction of highway traffic flow based on  an improved fixed grid wavelet network. Transportation & Communities Summit, Portland, OR.
+1.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2023. Data-driven Transfer Learning Framework for Estimating On-ramp and Off-ramp Traffic Flows. 102nd Annual Meeting of the Transportation Research Board (TRB), Washington, DC. #23-02013.
+2.	**Xiaobo Ma**, Adrian Cottam,  Mohammad Razaur Rahman Shaon, and Yao-Jan Wu, 2021. Application of Transfer Learning for Proactive Ramp Metering Performance Assessment. ITS Arizona 28th Annual Conference, Mesa, AZ.
+3.	Adrian Cottam, **Xiaobo Ma**, Xiaofeng Li, and Yao-Jan Wu, 2021. Large-scale Freeway Traffic Volume Estimation using Crowdsourced Speed Data: A Case Study in Arizona. 100th Annual Meeting of the Transportation Research Board (TRB), Washington, DC. #21-03258.
+4.	Xiaoling Luo, **Xiaobo Ma**, Matthew Munden, Yao-Jan Wu, and Yangsheng Jiang, 2021. Queue Length Estimation for Metered On-Ramps: A Multi-Source Data Approach. 100th Annual Meeting of the Transportation Research Board (TRB), Washington, DC. #21-03497.
+5.	**Xiaobo Ma**, Abolfazl Karimpour, and Yao-Jan Wu, 2020. Statistical Evaluation of Data Requirement for Ramp Metering Performance Assessment: A Case Study of SR-51, Arizona. 99th Annual Meeting of the Transportation Research Board (TRB), Washington, DC. #20-03641.
+6.	**Xiaobo Ma**, Yao-Jan Wu, 2019. Online prediction of highway traffic flow based on  an improved fixed grid wavelet network. Transportation & Communities Summit, Portland, OR.
