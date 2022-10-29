@@ -14,10 +14,11 @@ I have the membership of the Artificial Intelligence in Transportation Committee
 
 News
 ======
+* 2022/08：My research is featured as **2023 Transportation Research Board 102nd Annual Meeting Spotlight of AI Research: Explainable AI**.
 
-* 2022/04：I am honored to be featured as one of the National Institute for Transportation and Communities Student Spotlights. 
+* 2022/04：I am honored to be featured as one of **the National Institute for Transportation and Communities Student Spotlights**. 
 
-* 2022/03：I am honored to be featured as one of the ITE Mountain District Student Member Spotlights in the Mountain District ITE Quarterly Magazine - The Summit!
+* 2022/03：I am honored to be featured as one of **the ITE Mountain District Student Member Spotlights** in the Mountain District ITE Quarterly Magazine - The Summit!
 
 * 2022/03：I am honored to receive the **Jenny L. Grote Student Leadership Award**.This is an individual award meant to recognize students who have made substantial contributions to ITE and/or the transportation industry in Arizona. 
 
