@@ -8,8 +8,6 @@ author_profile: true
 
 ## Education
 
-* B.S. in Navigation Technology with honors(Integrated Ranking: 1/562), Dalian Maritime University, 2014
-* M.S. in Traffic Information Engineering & Control (Integrated Ranking: 1/104), Dalian Maritime University, 2017
 * Ph.D Major in Transportation Engineering (Cumulative GPA:3.9/4.0), University of Arizona, 2022 (expected)
 * Ph.D Minor in Statistics and Data Science (Cumulative GPA:4.0/4.0), University of Arizona, 2022
 
