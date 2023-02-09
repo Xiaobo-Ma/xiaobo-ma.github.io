@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Xiaobo Ma, a Ph.D. graduated from the Department of Civil & Architectural Engineering & Mechanics at the University of Arizona. My main research interests are traffic operations, intelligent transportation systems, machine Learning/causal Inference, big traffic data mining and analysis, and spatial-temporal data forecasting. 
+I received my Ph.D. in Intelligent Transportation Systems from the Department of Civil & Architectural Engineering & Mechanics at the University of Arizona. My main research interests are traffic operations, intelligent transportation systems, machine Learning/causal Inference, big traffic data mining and analysis, and spatial-temporal data forecasting. 
 
 I have the membership of the Artificial Intelligence in Transportation Committee of ASCE Transportation & Development Institute (T&DI). I am also a committee member of Paper Review Subcommittee and Communications Subcommittee, TRB Standing Committee on Artificial Intelligence and Advanced Computing Applications (AED50). My papers have been awarded the Transportation Research Board 102nd Annual Meeting Spotlight of AI Research: Explainable AI (2023), the American Statistical Association TSIG Student Paper Award (2022), the Intelligent Transportation Society 28th Annual Conference Best Paper Award (Arizona, 2021), and the Annual Outstanding Paper Award of the China Institute of Navigation (2015). I have been awarded China National Scholarship (top 0.2%) four times.   
 
