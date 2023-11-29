@@ -49,7 +49,8 @@ author_profile: true
 ## Referee for Journal and Conference
 
 * IEEE Transactions on Intelligent Transportation Systems
-* IEEE Transactions on Vehicular Technology
+* IEEE Transactions on Intelligent Vehicles
+* IEEE Transactions on Systems, Man, and Cybernetics: Systems
 * Mechanical Systems and Signal Processing
 * Physica A: Statistical Mechanics and its Applications
 * Transportation Research Part A
@@ -58,6 +59,7 @@ author_profile: true
 * Journal of Intelligent Transportation Systems
 * Journal of Automobile Engineering
 * International Journal of Vehicle Autonomous Systems
+* International Journal of Vehicle Design
 * IEEE International Intelligent Transportation Systems Conference
 * Transportation Research Board (TRB) Annual Meeting
   * ACP15 Standing Committee on Intelligent Transportation Systems
