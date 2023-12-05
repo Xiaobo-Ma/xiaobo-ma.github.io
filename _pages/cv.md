@@ -57,6 +57,7 @@ author_profile: true
 * Journal of Transportation Engineering, Part A: Systems
 * Transportation Research Record
 * Journal of Intelligent Transportation Systems
+* IET Intelligent Transport Systems
 * Journal of Automobile Engineering
 * International Journal of Vehicle Autonomous Systems
 * International Journal of Vehicle Design
