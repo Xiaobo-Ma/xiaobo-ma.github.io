@@ -62,6 +62,7 @@ author_profile: true
 * International Journal of Vehicle Autonomous Systems
 * International Journal of Vehicle Design
 * IEEE International Intelligent Transportation Systems Conference
+* International Conference on Transportation and Development 
 * Transportation Research Board (TRB) Annual Meeting
   * ACP15 Standing Committee on Intelligent Transportation Systems
   * ACP20 Standing Committee on Freeway Operations
