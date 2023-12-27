@@ -61,6 +61,7 @@ author_profile: true
 * Journal of Automobile Engineering
 * International Journal of Vehicle Autonomous Systems
 * International Journal of Vehicle Design
+* International Journal of Hydrology Science and Technology
 * IEEE International Intelligent Transportation Systems Conference
 * International Conference on Transportation and Development 
 * Transportation Research Board (TRB) Annual Meeting
