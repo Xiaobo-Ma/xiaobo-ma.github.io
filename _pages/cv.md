@@ -55,6 +55,7 @@ author_profile: true
 * Physica A: Statistical Mechanics and its Applications
 * Transportation Research Part A
 * Journal of Transportation Engineering, Part A: Systems
+* Transportmetrica A: Transport Science
 * Transportation Research Record
 * Journal of Intelligent Transportation Systems
 * IET Intelligent Transport Systems
