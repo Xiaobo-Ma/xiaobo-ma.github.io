@@ -59,6 +59,7 @@ author_profile: true
 * Transportation Research Record
 * Journal of Intelligent Transportation Systems
 * IET Intelligent Transport Systems
+* The Journal of Supercomputing
 * Journal of Automobile Engineering
 * International Journal of Vehicle Autonomous Systems
 * International Journal of Vehicle Design
