@@ -52,6 +52,7 @@ author_profile: true
 * IEEE Transactions on Intelligent Vehicles
 * IEEE Transactions on Systems, Man, and Cybernetics: Systems
 * Mechanical Systems and Signal Processing
+* Sustainable Cities and Society
 * Physica A: Statistical Mechanics and its Applications
 * Transportation Research Part A
 * Journal of Transportation Engineering, Part A: Systems
