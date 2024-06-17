@@ -63,6 +63,7 @@ author_profile: true
 * The Journal of Supercomputing
 * Journal of Automobile Engineering
 * International Journal of Vehicle Autonomous Systems
+* International Journal of Ad Hoc and Ubiquitous Computing
 * International Journal of Vehicle Design
 * International Journal of Hydrology Science and Technology
 * International Journal of Sustainable Agricultural Management and Informatics
